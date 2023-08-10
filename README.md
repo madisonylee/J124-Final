@@ -31,7 +31,7 @@
 3. Then, I changed the "sort by" under Time to "AVERAGE of value".
 4. In order to see the years with the highest fertility rates across all countries, I changed the order under time to "Descending".
 #### The countries with the highest percent change in fertility rates:
-!['Screenshot','Pivot Table 1'](/2.2.png)   
+!['Screenshot','Pivot Table 1'](/3.2.png)   
 #### The countries with the lowest percent change in fertility rates:
-!['Screenshot','Pivot Table 1'](/2..1.png)  
+!['Screenshot','Pivot Table 1'](/3..1.png)  
 #####
