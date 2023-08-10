@@ -57,7 +57,7 @@
 !['Average Fertility Rate','Line Chart](/AverageFertilityRate.png) 
 ## Story Pitch and Resources
 Fertility Rate is an important issue that typically goes overlooked. This story looks to both highlight the importance and rapidly declining fertility rates around the world, and, explore the countries that are at a more dangerous state in terms of fertility rates. 
-<br>
+<br> 
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
     - Email: john.ermisch@sociology.ox.ac.uk
     - Phone: 01865281921
