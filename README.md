@@ -43,7 +43,7 @@
 ### **Question 5: In the past 5 years, which countries are seeing the highest percent decline in their fertility rates?**
 1. To respond to this question, I began by creating a new row on my data table and labeled it "Percent Change In The Past 5 Years."
     1. Then, I added a filter for the "TIME" column, where I cleared all values and only selected 2017 and 2021.
-    2. Next, I added the formula:=(G59-G63)/G59 for the first country
+    2. Next, I added the formula: =(G59-G63)/G59 for the first country
     3. Afterwards, I autofilled this formula for the remaining countries. 
 3. Then, I created a pivot table, where I put "Location" for the rows and "Percent Change" for the value.
 4. Next, I added a filter for the TIME so that it would only show me the year 2017. 
