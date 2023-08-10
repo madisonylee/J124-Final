@@ -34,4 +34,4 @@
 !['Screenshot','Pivot Table 1'](/3.2.png)   
 #### The years with the lowestfertility rates:
 !['Screenshot','Pivot Table 1'](/3.1.png)  
-### **Question 1: Which countries have had the highest fertility rates on average since 1970? Which countries have had the lowest average fertility rates?**
+### **Question 4: In 2021, how many countries had a fertility rate of more than 1? How many countries had a fertility rate of less than 1?**
