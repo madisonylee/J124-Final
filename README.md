@@ -8,7 +8,9 @@
 4. Then, I changed the "sort by" under the Location to "AVERAGE of value". 
 5. To find the countries with the highest average fertility rates, I changed the "order" under Location to "Descending".
 #### The countries with the highest average fertility rates:
-
+!['Screenshot','Pivot Table 1'](/1.1.jpg)
+#### The countries with the lowest average fertility rates:
+!['Screenshot','Pivot Table 1'](/1.2.jpg)
 #### **Question 2: Since 1970 to 2021, which countries have had the highest percent change in fertility rates? Which countries had the lowest percent change?**
 #### **Question 3: Since 1970 to 2021, which countries have had the highest percent change in fertility rates? Which countries had the lowest percent change?**
 #####
