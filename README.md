@@ -24,6 +24,6 @@
 #### The countries with the highest percent change in fertility rates:
 !['Screenshot','Pivot Table 1'](/2.2.png)   
 #### The countries with the lowest percent change in fertility rates:
-!['Screenshot','Pivot Table 1'](/2.1.png)  
+!['Screenshot','Pivot Table 1'](/2..1.png)  
 #### **Question 3: Since 1970 to 2021, which countries have had the highest percent change in fertility rates? Which countries had the lowest percent change?**
 #####
