@@ -25,5 +25,13 @@
 !['Screenshot','Pivot Table 1'](/2.2.png)   
 #### The countries with the lowest percent change in fertility rates:
 !['Screenshot','Pivot Table 1'](/2..1.png)  
-#### **Question 3: Since 1970 to 2021, which countries have had the highest percent change in fertility rates? Which countries had the lowest percent change?**
+#### **Question 3: From 1970 to 2021, what year had the lowest fertility rates across all countries? Which year had the highest?**
+1. I began by creating a pivot table with "time" set for the rows and "Value" set for the values.
+2. I changed the "value summarize by" to AVERAGE.
+3. Then, I changed the "sort by" under Time to "AVERAGE of value".
+4. In order to see the years with the highest fertility rates across all countries, I changed the order under time to "Descending".
+#### The countries with the highest percent change in fertility rates:
+!['Screenshot','Pivot Table 1'](/2.2.png)   
+#### The countries with the lowest percent change in fertility rates:
+!['Screenshot','Pivot Table 1'](/2..1.png)  
 #####
