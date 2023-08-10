@@ -1,7 +1,7 @@
 # J124 Final Project: A Look Into Fertility Rates Through Data Anaylisis & Visualization 
 ## Madison Lee
 ## Data Analysis Process
-- Downloaded the 
+- Downloaded the Fertility rates data table, through the Full Indicator Data, as a csv. file. Then I uploaded the csv. file into a new Google Sheets document. 
 ## Data Analysis 
 ### **Question 1: Which countries have had the highest fertility rates on average since 1960? Which countries have had the lowest average fertility rates?**
 1. My first step in finding my answer was to create a pivot table.
