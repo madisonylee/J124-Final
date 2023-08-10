@@ -22,17 +22,22 @@
 6. Then, I changed the "sort by" under location to SUM of Percent Change"
 7. To find the countries with the highest percent change in fertility rates, I changed the "order" under Locaiton to "Descending".
 #### The countries with the highest percent change in fertility rates:
-!['Screenshot','Pivot Table 1'](/2.2.png)   
+!['Screenshot','Pivot Table 2'](/2.2.png)   
 #### The countries with the lowest percent change in fertility rates:
-!['Screenshot','Pivot Table 1'](/2..1.png)  
+!['Screenshot','Pivot Table 2'](/2..1.png)  
 ### **Question 3: From 1970 to 2021, what year had the lowest fertility rates across all countries? Which year had the highest?**
 1. I began by creating a pivot table with "time" set for the rows and "Value" set for the values.
 2. I changed the "value summarize by" to AVERAGE.
 3. Then, I changed the "sort by" under Time to "AVERAGE of value".
 4. In order to see the years with the highest fertility rates across all countries, I changed the order under time to "Descending".
 #### The years with the highest fertility rates:
-!['Screenshot','Pivot Table 1'](/3.2.png)   
+!['Screenshot','Pivot Table 3'](/3.2.png)   
 #### The years with the lowestfertility rates:
-!['Screenshot','Pivot Table 1'](/3.1.png)  
-### **Question 4: In 2021, how many countries had a fertility rate of more than 1? How many countries had a fertility rate of less than 1?**
-1. I started to answer this question by cleaning my data so that I could focus only on 2021. 
+!['Screenshot','Pivot Table 3'](/3.1.png)  
+### **Question 4: In 2021, which countries had a fertility rate less than 1?**
+1. I started to answer this question by creating a pivot table with "Location" for the rows and "Values" for the value.
+2. Becuase I only wantted to look at 2021, I added a filter for TIME, and under "filter by values", I cleared all, then selected 2021.
+3. I created another filter, this time with Value, and under "filter by condition", I selected "value is less than or equal to" and then typed in 1.
+#### The countries with fertility rates less than 1 in 2021:
+!['Screenshot','Pivot Table 4'](/4.1.png) 
+
