@@ -41,8 +41,8 @@
 #### The countries with fertility rates less than 1 in 2021:
 !['Screenshot','Pivot Table 4'](/4.1.png) 
 ### **Question 5: In the past 5 years, which countries are seeing a decline in their fertility rates?**
-1. To respond to this question, I began by
-2. 
+1. To respond to this question, I began by creating a pivot table. 
+   
 ## Data Visualization
 !['Average Fertility Rate','Line Chart](/AverageFertilityRate.png) 
 
