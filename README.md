@@ -61,5 +61,6 @@ Fertility Rate is an important issue that typically goes overlooked. This story 
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
     - Email: john.ermisch@sociology.ox.ac.uk
     - Phone: 01865281921
+  <br>   
 Doctor Dudley L. Poston at Texas A&M University
     - Email: d-poston@tamu.edu 
