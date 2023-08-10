@@ -1,5 +1,7 @@
 # J124 Final Project: A Look Into Fertility Rates Through Data Anaylisis & Visualization 
 ## Madison Lee
+## Data Analysis Process
+- Downloaded the 
 ## Data Analysis 
 ### **Question 1: Which countries have had the highest fertility rates on average since 1960? Which countries have had the lowest average fertility rates?**
 1. My first step in finding my answer was to create a pivot table.
@@ -51,7 +53,6 @@
 6. Finally, I changed the "sort by" under the Location to show the Sum of the Percent Change In The Past 5 Years, and clicked desceding for the order. 
 #### The countries with a decline in fertility:
 !['Screenshot','Pivot Table 4'](/5.1.png) 
-   
 ## Data Visualization
 !['Average Fertility Rate','Line Chart](/AverageFertilityRate.png) 
-
+## Story Pitch and Resources
