@@ -35,3 +35,4 @@
 #### The years with the lowestfertility rates:
 !['Screenshot','Pivot Table 1'](/3.1.png)  
 ### **Question 4: In 2021, how many countries had a fertility rate of more than 1? How many countries had a fertility rate of less than 1?**
+1. I started to answer this question by cleaning my data so that I could focus only on 2021. 
