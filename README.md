@@ -1,8 +1,8 @@
 # J124 Final Project: A Look Into Fertility Rates Through Data Anaylisis & Visualization 
 ### Madison Lee
-## Story Summary
+## Story Introduction 
 
-In more recent decades, fertility rates have been a rather overlooked but important issue. There has been over a 50% world-wide decline in fertility rates over the last 70 years. To provide some context, fertility rates refers to the average number of children a women births in the time of their reproductive years; in order to mantain a relatively stable population in any given area, an average fertility rate of around 2.1 is required. 
+In more recent decades, fertility rates have been a rather overlooked but important issue. There has been over a 50% world-wide decline in fertility rates over the last 70 years. To provide some context, fertility rates refers to the average number of children a women births in the time of their reproductive years; in order to mantain a relatively stable population in any given area, an average fertility rate of around 2.1 is required. As the imapcts of fertility rates are not linear, nor do they have the same effects on different countries, this story aims to highlight and explore which countries have been and which countries are currently the most vulnerable to this growing issue. 
 ## Data Analysis Process
 - Downloaded the Fertility rates data table, through the Full Indicator Data, as a csv. file. Then, I uploaded the csv. file into a new Google Sheets document. 
 ## Data Analysis 
@@ -49,7 +49,8 @@ In more recent decades, fertility rates have been a rather overlooked but import
 1. To respond to this question, I began by creating a new row on my data table and labeled it "Percent Change In The Past 5 Years."
     1. Then, I added a filter for the "TIME" column, where I cleared all values and only selected 2017 and 2021.
     2. Next, I added the formula: =(G59-G63)/G59 for the first country
-    3. Afterwards, I autofilled this formula for the remaining countries. 
+       !['Screenshot','Percent Change Table'](/5.3.png) 
+    4. Afterwards, I autofilled this formula for the remaining countries. 
 3. Then, I created a pivot table, where I put "Location" for the rows and "Percent Change" for the value.
 4. Next, I added a filter for the TIME so that it would only show me the year 2017. 
 5. I added another filter for the Percent Change In The Past 5 Years, where I pressed "filter by condition" and then clicked greater than, and then typed in 0.
@@ -61,6 +62,7 @@ In more recent decades, fertility rates have been a rather overlooked but import
 https://www.datawrapper.de/_/RcWZr/ 
 !['Fertility Rate By Country In 2021','Chloropleth Map](/DataViz2.png) 
 https://www.datawrapper.de/_/a4NIA/
+
 ## Resources
   <br>   
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
