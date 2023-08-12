@@ -64,7 +64,7 @@ https://www.datawrapper.de/_/RcWZr/
 https://www.datawrapper.de/_/a4NIA/
 ## Story Pitch
 As the imapcts of fertility rates are not linear, nor do they have the same effects on different countries, this story aims to highlight and explore which countries have been and which countries are currently the most vulnerable to this growing issue. Through this data analysis there are a couple of factors that stand out. Particullarly in relation to Question 4, Korea is the only country with a fertility rate less than 1. Not only does this number not reach the reccomended 2.1 fertility rate to mantain a population, it also means that less babies are given birth to for every one woman in Korea. As shown in the data analysis, Korea scores high in terms of percent change (1st), as well as percent decline in the past five years (2nd). This is rather alarming considering historically, they have not had low fertility rates — ranked 33rd in terms of countries with the lowest fertility rates from 1960-2021. This means that their problems regarding fertility are rather recent. From this data, one could take a deeper dive into the factors that are placing Korea in a vulnerable state in terms of fertility rates and population. This could include aspects such as rising costs of living or changes in lifestyle preferences. Furthermore, this story could look into what ways the Korean government has taken action to rectify this growing issue, as well as what steps the government could take moving on. 
-## Resources
+## Resources and Further Research
   <br>   
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
      <br>    - Email: john.ermisch@sociology.ox.ac.uk
@@ -72,3 +72,9 @@ Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermi
   <br>   
 Doctor Dudley L. Poston at Texas A&M University
    <br>  - Email: d-poston@tamu.edu 
+    <br>  
+    https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate 
+    <br>  
+    https://populationandeconomics.pensoft.net/article/37938/ 
+      <br>    - This source would be helpful for further research, specifically for Korea's fertility rate, and more importantly, the economic factors that impact this low rate. 
+   <br>  - Phone: 01865281921
