@@ -58,6 +58,7 @@ In more recent decades, fertility rates have been a rather overlooked but import
 !['Screenshot','Pivot Table 4'](/5.1.png) 
 ## Data Visualization
 !['Average Fertility Rate','Line Chart](/AverageFertilityRate.png) 
+!['Fertility Rate By Country In 2021','Chloropleth Map](/DataViz2.png) 
 ## Resources
   <br>   
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
