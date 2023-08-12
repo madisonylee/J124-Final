@@ -74,8 +74,11 @@ Doctor Dudley L. Poston at Texas A&M University
    <br>  - Email: d-poston@tamu.edu 
    <br>  - Phone: 01865281921
 ## Further Research
-    https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate 
     <br>  
-    https://populationandeconomics.pensoft.net/article/37938/ 
+   [Low fertility trend in the Republic of Korea and the problems of its family and demographic policy implementation] (https://populationandeconomics.pensoft.net/article/37938/) 
+      <br>    - This source would be helpful for further research, specifically for Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
+     <br>    - Additionally, this report provides specific data on not only the Korea's past and present fertility rates, but it also provides projections for the following decades as well. This would be especially usefull in exploring ways and solutions for Korea's fertility rate issue. 
+       <br>  
+    https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate 
       <br>    - This source would be helpful for further research, specifically for Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
      <br>    - Additionally, this report provides specific data on not only the Korea's past and present fertility rates, but it also provides projections for the following decades as well. This would be especially usefull in exploring ways and solutions for Korea's fertility rate issue. 
