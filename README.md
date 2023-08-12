@@ -2,7 +2,7 @@
 ### Madison Lee
 ## Story Introduction 
 
-In more recent decades, fertility rates have been a rather overlooked but important issue. There has been over a 50% world-wide decline in fertility rates over the last 70 years. To provide some context, fertility rates refers to the average number of children a women births in the time of their reproductive years; in order to mantain a relatively stable population in any given area, an average fertility rate of around 2.1 is required. As the imapcts of fertility rates are not linear, nor do they have the same effects on different countries, this story aims to highlight and explore which countries have been and which countries are currently the most vulnerable to this growing issue. 
+In more recent decades, fertility rates have been a rather overlooked but important issue. There has been over a 50% world-wide decline in fertility rates over the last 70 years. To provide some context, fertility rates refers to the average number of children a women births in the time of their reproductive years; in order to mantain a relatively stable population in any given area, an average fertility rate of around 2.1 is required. 
 ## Data Analysis Process
 - Downloaded the Fertility rates data table, through the Full Indicator Data, as a csv. file. Then, I uploaded the csv. file into a new Google Sheets document. 
 ## Data Analysis 
@@ -62,7 +62,8 @@ In more recent decades, fertility rates have been a rather overlooked but import
 https://www.datawrapper.de/_/RcWZr/ 
 !['Fertility Rate By Country In 2021','Chloropleth Map](/DataViz2.png) 
 https://www.datawrapper.de/_/a4NIA/
-
+## Story Pitch
+As the imapcts of fertility rates are not linear, nor do they have the same effects on different countries, this story aims to highlight and explore which countries have been and which countries are currently the most vulnerable to this growing issue. Through this data analysis there are a couple of factors that stand out. Particullarly in relation to Question 4, Korea is the only country with a fertility rate less than 1. Not only does this number not reach the reccomended 2.1 fertility rate to mantain a population, it also means that less babies are given birth to for every one woman in Korea. As shown in the data analysis, Korea scores high in terms of percent change (1st), as well as percent decline in the past five years (2nd). This is rather alarming considering historically, they have not had low fertility rates — ranked 33rd in terms of countries with the lowest fertility rates from 1960-2021. This means that their problems regarding fertility are rather recent. From this data, one could take a deeper dive into the factors that are placing Korea in a vulnerable state in terms of fertility rates and population. This could include aspects such as rising costs of living or changes in lifestyle preferences. Furthermore, this story could look into what ways the Korean government has taken action to rectify this growing issue, as well as what steps the government could take moving on. 
 ## Resources
   <br>   
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
