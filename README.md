@@ -65,18 +65,16 @@ https://www.datawrapper.de/_/a4NIA/
 ## Story Pitch
 As the imapcts of fertility rates are not linear, nor do they have the same effects on different countries, this story aims to highlight and explore which countries have been and which countries are currently the most vulnerable to this growing issue. Through this data analysis there are a couple of factors that stand out. Particullarly in relation to Question 4, Korea is the only country with a fertility rate less than 1. Not only does this number not reach the reccomended 2.1 fertility rate to mantain a population, it also means that less babies are given birth to for every one woman in Korea. As shown in the data analysis, Korea scores high in terms of percent change (1st), as well as percent decline in the past five years (2nd). This is rather alarming considering historically, they have not had low fertility rates — ranked 33rd in terms of countries with the lowest fertility rates from 1960-2021. This means that their problems regarding fertility are rather recent. From this data, one could take a deeper dive into the factors that are placing Korea in a vulnerable state in terms of fertility rates and population. This could include aspects such as rising costs of living or changes in lifestyle preferences. Furthermore, this story could look into what ways the Korean government has taken action to rectify this growing issue, as well as what steps the government could take moving on. 
 ## Resources
+**Andrew Yeo** is a Professor of Politics and Director of Asian Studies at The Catholic University of America. Yeo focuses teaching in topics including, Asian security, narratives and discorse, Korean politics, and North Korea. 
+  <br>    - Email: yeo@cua.edu
+   <br>  - Phone: 202-319-6223
+      <br>  - Professor Andrew Yeo is also a senior fellow at the Brookings Institution’s Center for East Asia Policy Studies, and has done extensive research on the issue of Korea's declining fertility rate. I believe that Professor Yeo would be an important addition to the story as he has and can provide more information on the politics surrounding fertility rates in Korea. Yeo also can provide insight on the factors that have led to this drastic decline thus far. 
 **Professor John Ermisch**
-Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
+is a specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
      <br>    - Email: john.ermisch@sociology.ox.ac.uk
    <br>  - Phone: 01865281921
       <br>  - Professor John Ermisch has done research specifically on the correlation between education level and fertility rates. I believe that education would be a very interesting and important factor when exploring the topic of the declining fertiltiy rate in Korea. Especially given the heavy emphasis on education in Korea, education would be imperative to explore in addition to factors such as Korean society adn economics. I believe that creating this addition to the story would allow for a more holistic exploration into Korea's fertility issue. 
-  <br>   
-Doctor Dudley L. Poston at Texas A&M University
-   <br>  - Email: d-poston@tamu.edu 
-   <br>  - Phone: 01865281921
-   
 ## Further Research
-    <br>  
    [Low fertility trend in the Republic of Korea and the problems of its family and demographic policy implementation](https://populationandeconomics.pensoft.net/article/37938/)
       <br>    - This source is a report by Population and Economics; it would be helpful for further research, as it covers Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
      <br>    - Additionally, this report provides specific data on not only the Korea's past and present fertility rates, but it also provides projections for the following decades as well. This would be especially usefull in exploring ways and solutions for Korea's fertility rate issue. 
