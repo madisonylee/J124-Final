@@ -1,6 +1,7 @@
 # J124 Final Project: A Look Into Fertility Rates Through Data Anaylisis & Visualization 
 ## Madison Lee
 ## Story Summary
+
 In more recent decades, fertility rates have been a rather overlooked but important issue. There has been over a 50% world-wide decline in fertility rates over the last 70 years. To provide some context, fertility rates refers to the average number of children a women births in the time of their reproductive years; in order to mantain a relatively stable population in any given area, an average fertility rate of around 2.1 is required. 
 ## Data Analysis Process
 - Downloaded the Fertility rates data table, through the Full Indicator Data, as a csv. file. Then, I uploaded the csv. file into a new Google Sheets document. 
