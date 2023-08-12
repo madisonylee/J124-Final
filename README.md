@@ -77,9 +77,9 @@ Doctor Dudley L. Poston at Texas A&M University
     <br>  
 
    [Low fertility trend in the Republic of Korea and the problems of its family and demographic policy implementation](https://populationandeconomics.pensoft.net/article/37938/)
-      <br>    - This source would be helpful for further research, specifically for Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
+      <br>    - This source is a report by Population and Economics; it would be helpful for further research, as it covers Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
      <br>    - Additionally, this report provides specific data on not only the Korea's past and present fertility rates, but it also provides projections for the following decades as well. This would be especially usefull in exploring ways and solutions for Korea's fertility rate issue. 
        <br>  
-    https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate 
-      <br>    - This source would be helpful for further research, specifically for Korea's fertility rate, and more importantly, the economic and societal factors that impact this low rate. 
-     <br>    - Additionally, this report provides specific data on not only the Korea's past and present fertility rates, but it also provides projections for the following decades as well. This would be especially usefull in exploring ways and solutions for Korea's fertility rate issue. 
+          [South Korea has the world's lowest fertility rate, a struggle with lessons for us all](    https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate )
+      <br>    - This source is an article by NPR, which provides an interview with a Korean woman who is unable to have children due to the economic burden. NPR also discusses expert opinions on the current subsidies and plans provided by the Korean government in efforts to alleviate this issue, as well as further suggestions the government could take. 
+     <br>    - This report would be especially useful in understanding why the fertility rate is so low in Korea, especially given there is a first-person story included. Furthermore, this source also can provide more information in terms of the cultural burdens of having a child in Korea. 
