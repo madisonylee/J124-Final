@@ -73,7 +73,7 @@ As the imapcts of fertility rates are not linear, nor do they have the same effe
 **Professor John Ermisch**
 is a specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
      <br>    - Email: john.ermisch@sociology.ox.ac.uk
-   <br>  - Phone: 01865281921
+   <br>  - Phone: 01865-281921
       <br>     - Professor John Ermisch has done research specifically on the correlation between education level and fertility rates. I believe that education would be a very interesting and important factor when exploring the topic of the declining fertiltiy rate in Korea. Especially given the heavy emphasis on education in Korea, education would be imperative to explore in addition to factors such as Korean society adn economics. I believe that creating this addition to the story would allow for a more holistic exploration into Korea's fertility issue. 
 ## Further Research
    [Low fertility trend in the Republic of Korea and the problems of its family and demographic policy implementation](https://populationandeconomics.pensoft.net/article/37938/)
