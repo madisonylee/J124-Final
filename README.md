@@ -1,5 +1,7 @@
 # J124 Final Project: A Look Into Fertility Rates Through Data Anaylisis & Visualization 
 ## Madison Lee
+## Story Summary
+In the past couple of decades, fertility rates have been a rather overlooked but important issue. 
 ## Data Analysis Process
 - Downloaded the Fertility rates data table, through the Full Indicator Data, as a csv. file. Then, I uploaded the csv. file into a new Google Sheets document. 
 ## Data Analysis 
@@ -55,8 +57,7 @@
 !['Screenshot','Pivot Table 4'](/5.1.png) 
 ## Data Visualization
 !['Average Fertility Rate','Line Chart](/AverageFertilityRate.png) 
-## Story Pitch and Resources
-Fertility Rate is an important issue that typically goes overlooked. This story looks to both highlight the importance and rapidly declining fertility rates around the world, and, explore the countries that are at a more dangerous state in terms of fertility rates. 
+## Resources
   <br>   
 Professor John Ermisch, Specialist Emeritus Professor of Family Demography. Ermisch's research primarily centers the structure and dynamics of families and their interaction with wider society.
      <br>    - Email: john.ermisch@sociology.ox.ac.uk
